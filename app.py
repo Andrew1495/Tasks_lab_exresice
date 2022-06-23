@@ -1,6 +1,6 @@
 
-from start_code.task_list import *
-from output import *
+from module.task_list import *
+from module.output import *
 
 while (True):
     print_menu()
